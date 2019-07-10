@@ -20,6 +20,7 @@ function level2Solution() {
 	} else if (column >=8) {
 		document.getElementById("currentTile").innerHTML = "Water"; 
 	} else {
+		document.getElementById("currentTile").innerHTML = "Sand"; 
 	}
 }
 
