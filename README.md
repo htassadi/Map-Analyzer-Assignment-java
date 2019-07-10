@@ -1,1 +1,2 @@
-# Map-Analyzer-Assignment-java
+# js-map-analyzer
+Map Analyzer Assignment
